@@ -155,13 +155,13 @@ a {
 
 /* Graph Bars */
 .bars {
-	height: 253px;
-	position: absolute;
-	width: 100%;
-	z-index: 10;
-	background-color: #b300001a;
-	border-style: double;
-	border-color: red;
+    height: 253px;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    background-color: #73737469;
+    border-style: double;
+    border-color: #4d4d4d;
 }
 .bar-group {
 	float: left;
